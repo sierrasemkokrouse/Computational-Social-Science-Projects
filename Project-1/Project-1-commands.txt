@@ -1,0 +1,12 @@
+pwd
+ls
+cd git
+git clone https://github.com/sierrasemkokrouse/Computational-Social-Science-Projects
+cd Computational-Social-Science-Projects
+mkdir Project-1
+cd Project-1
+touch Project-1-commands.txt
+nano Project-1-commands.txt
+git add
+git commit -m "making Project 1 folder + txt file of commands"
+git push 
